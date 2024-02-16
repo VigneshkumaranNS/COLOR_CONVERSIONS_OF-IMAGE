@@ -139,7 +139,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
-![c1](https://github.com/VigneshkumaranNS/COLOR_CONVERSIONS_OF-IMAGE/assets/119484483/07c0e96c-057b-4311-8efb-404abac71bdb)
+<img src="https://github.com/VigneshkumaranNS/COLOR_CONVERSIONS_OF-IMAGE/assets/119484483/07c0e96c-057b-4311-8efb-404abac71bdb" width="300">
 <br>
 <br>
 
